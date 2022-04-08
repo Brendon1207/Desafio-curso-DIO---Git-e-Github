@@ -1,0 +1,24 @@
+body {
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.max-width{
+    background-image: url(../Desafio-curso-DIO---Git-e-Github/img/Github.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: rgb(255, 0, 0);
+}
+
+h1 {
+    color:rgb(49, 97, 255);
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+}
